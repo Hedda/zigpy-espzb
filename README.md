@@ -7,7 +7,7 @@
 
 The goal of this project is to native Zigbee Coordinator radio adapter support using [Zigbee NCP (Network Co-Processor) application firmware](https://github.com/espressif/esp-zigbee-sdk/tree/main/examples/esp_zigbee_ncp) with Espressif Systems ESP32-C6/ESP32-H2 based Zigbee modules via the [zigpy](https://github.com/zigpy/) project.
 
-This together with the zigpy library and a home automation software application with compatible Zigbee gateway implementation, like the [Home Assistant's ZHA (Zigbee Home Automation) integration component](https://www.home-assistant.io/integrations/zha), you can directly control other Zigbee devices from most product manufacturers.
+This together with the [zha](https://github.com/zigpy/zha) and [zigpy](https://github.com/zigpy/zigpy) libraries you can create a Zigbee Gateway host application using compatible radio SoCs, like the [Home Assistant's ZHA (Zigbee Home Automation) integration component](https://www.home-assistant.io/integrations/zha), you can directly control other Zigbee devices from most product manufacturers.
 
 # Back-story and use cases
 
