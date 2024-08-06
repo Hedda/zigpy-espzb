@@ -96,7 +96,7 @@ The **[bellows](https://github.com/zigpy/bellows)** is made Silicon Labs [EZSP (
 
 ### zigpy organization
 
-[ziggpy "organization"](https://github.com/zigpy) is the umbrella organization on GitHub that contains all the ZHA and zigpy related projects. For more development documentation/information and discussions between developers please see the main "zigpy" repository there.
+[zigpy "organization"](https://github.com/zigpy) is the umbrella organization on GitHub that contains all the ZHA and zigpy related projects. For more development documentation/information and discussions between developers please see the main "zigpy" repository there.
 
 ### zigpy
 **[zigpy](https://github.com/zigpy/zigpy)** is a **[Zigbee protocol stack](https://en.wikipedia.org/wiki/Zigbee)** integration project to implement the **[Zigbee Home Automation](https://www.zigbee.org/)** standard as a Python library. Zigbee Home Automation integration with zigpy allows you to connect one of many off-the-shelf Zigbee adapters using one of the available Zigbee radio library modules compatible with zigpy to control Zigbee devices. There is currently support for controlling Zigbee device types such as binary sensors (e.g. motion and door sensors), analog sensors (e.g. temperature sensors), lightbulbs, switches, and fans. Zigpy is tightly integrated with **[Home Assistant](https://www.home-assistant.io)**'s **[ZHA component](https://www.home-assistant.io/components/zha/)** and provides a user-friendly interface for working with a Zigbee network.
